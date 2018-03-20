@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+<name>iBooksFix</name>
+<type>output</type>
+<author>djazz</author>
+<description>Moves the XHTML TOC in EPUB3s to the OEBPS directory</description>
+<autostart>true</autostart>
+<engine>python3.4</engine>
+<version>0.1</version>
+<oslist>unx,osx,win</oslist>
+</plugin>
